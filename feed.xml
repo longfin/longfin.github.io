@@ -12,7 +12,7 @@ https://longfin.github.io/
 longfin's blog
 </description>
 <lastBuildDate>
-Sat, 06 Jan 2018 22:33:58 +0900
+Sat, 06 Jan 2018 14:27:37 +0000
 </lastBuildDate>
 <generator>
 clj-rss
@@ -31,7 +31,7 @@ https://longfin.github.io/posts/2018-01-06-blog/
 &lt;p&gt;최근 긴 글을 적을 일이 종종 있었는데 그때마다 적잖이 힘에 부치는 걸 느꼈다. 근 몇 년 동안 트위터와 페이스북과 짧은 단문 위주로 글을 적다 보니 글의 호흡이 너무 짧아진 게 원인인가 싶더라. 누군가는 글을 쓰는 건 힘을 쓰는 것처럼 근육이 필요한 일이라고 했다. 그렇다면 나는 아마 장기 입원으로 근육이 다 쪼그라든 환자 같은 몰골이겠지.&lt;/p&gt;&lt;p&gt;하여튼 그래서 글을 좀 길게 적어보기로 했다. 처음에는 페이스북 노트 기능을 활용할까 하다가, 여기저기 공개할 생각으로 글을 쓰는 거라면 블로그가 낫겠더라. 블로깅을 하는 서비스를 쓸까 하다가, &lt;a href='https://spoqa.github.io'&gt;회사 기술 블로그&lt;/a&gt;처럼 &lt;a href='https://pages.github.com/'&gt;GitHub Pages&lt;/a&gt;를 쓰는 게 혹시라도 나중에 옮기기 좋겠단 생각이 들었고, 그렇다면 아예 도구도 똑같이 &lt;a href='https://jekyllrb.com/'&gt;Jekyll&lt;/a&gt;을 쓸까 했지만, 개인용 랩톱에 깔린 클로져 런타임이 애처로워서 &lt;a href='http://cryogenweb.org'&gt;Cryogen&lt;/a&gt;을 써보기로 했다.&lt;/p&gt;&lt;p&gt;요즘에는 하는 일이 일이다 보니 도대체 얼마나 적을 수 있을지 모르겠지만, 그래도 될 수 있는 한 시간을 정해서 꾸준히 적어보려고 한다.&lt;/p&gt;
 </description>
 <pubDate>
-Sat, 06 Jan 2018 00:00:00 +0900
+Sat, 06 Jan 2018 00:00:00 +0000
 </pubDate>
 </item>
 </channel>
